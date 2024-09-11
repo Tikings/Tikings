@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Tikings
 - 👀 I’m interested in Computer Science and Biology (Neurosciences == GOAT of biology) 
-- 🌱 I’m currently learning Data sciences as a part of my engineering cursus at [AgroParisTech](agroparistech.fr) and I am learning a lot of other things such as Web dev, and embedded programming on my personal time. 
+- 🌱 I'm currently in my last year of engineering school at [AgroParisTech](agroparistech.fr) in a cursus focusing on Data sciences and AI.
+- ⚙️ I also like to work on side projects, mainly on embedded devices.
 - 📫 How to reach me : timothee.sanchez@agroparistech.fr 
 
 <!---
