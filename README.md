@@ -1,3 +1,5 @@
+![logo apt et paris-saclay](Assets/logo-apt-paris-saclay.svg)
+
 - 👋 Hi, I’m @Tikings
 - 👀 I’m interested in Computer Science and Biology (Neurosciences == GOAT of biology) 
 - 🌱 I'm currently in my last year of engineering school at [AgroParisTech](agroparistech.fr) in a cursus focusing on Data sciences and AI.
