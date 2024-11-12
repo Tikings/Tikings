@@ -3,6 +3,7 @@
 - 🌱 I'm currently in my last year of engineering school at [AgroParisTech](agroparistech.fr) in a cursus focusing on Data sciences and AI.
 - ⚙️ I also like to work on side projects, mainly on embedded devices.
 - 📫 How to reach me : timothee.sanchez@agroparistech.fr 
+- [My CV](Assets/CV_SANCHEZ_10-10.pdf)
 
 <!---
 Tikings/Tikings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
